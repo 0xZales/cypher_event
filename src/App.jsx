@@ -129,11 +129,12 @@ function App() {
           d’Aure, de la vallée du Louron, de la vallée de Bareilles, de la
           vallée de Barrancoueu et de la vallée d’Ardengost, au pied de 2 cols
           mythiques du Tour de France le col d’Aspin et le col du Peyresourde.
-      
+      <br />
+      Visitez le site officiel du <a href="https://gitesarreau.fr/" target="_blank" className="text-black font-semibold">gîte</a> pour plus d'informations
         </p>
       </div>
       <div className="md:m-5 w-full flex md:justify-around justify-center items-center flex-col gap-6 ">
-        <h1 className="md:text-3xl font-bold text-xl">Restez anonymes </h1>
+        <h1 className="md:text-3xl font-bold text-xl mt-3">Restez anonymes </h1>
         <p className="md:w-2/4">
           Aucune informations personnelles requise pour securiser votre
           reservation, juste une adrese email ou un pseudonyme Twitter pour
@@ -142,7 +143,7 @@ function App() {
           <a
             href="https://twitter.com/yolo2064"
             target="_blank"
-            className="text-black text-semibold inline-block"
+            className="text-black font-semibold inline-block"
           >
             Twitter
           </a>
