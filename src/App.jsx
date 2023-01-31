@@ -1,6 +1,6 @@
 import affiche from "./assets/affiche.jpeg";
 import salle from "./assets/salle.jpg";
-import site1 from "./assets/site1.jpg";
+import site1 from "./assets/chambre.jpg";
 import site from "./assets/site.jpg";
 import programme from "./assets/programme.jpeg";
 function App() {
